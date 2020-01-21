@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         minSdkVersion 17
-        targetSdkVersion 23
+        targetSdkVersion 29
         versionCode 4
         versionName "1.2.0"
 
@@ -19,7 +19,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-eCoupon (8 stelliger Code) 
+    
     splits {
         abi {
             enable true
